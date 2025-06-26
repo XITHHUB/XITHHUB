@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there! 👋 I'm Film (You Can Call Me Fil.)
 
-<!--
-**XITHHUB/XITHHUB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hello! My name is **Film**, and I'm passionate about coding and playing computer games. I love exploring new technologies and I'm always ready to learn new things!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Skills
+
+I have experience with the following programming languages and technologies:
+
+### Programming Languages
+
+- **C++** - Systems programming and competitive programming
+- **C** - Low-level programming and embedded systems
+- **Python** - Data analysis, automation, and backend development
+- **JavaScript** - Frontend and full-stack web development
+- **PHP** - Server-side web development
+- **SQL** - Database management and queries
+
+### Web Technologies
+
+- **HTML** - Markup and web structure
+- **React** - Frontend JavaScript library
+- **Next.js** - Full-stack React framework
+
+## 🌱 Always Learning
+
+I'm constantly expanding my knowledge and am excited to learn new programming languages and technologies. The world of coding is vast and ever-evolving, and I'm ready to embrace new challenges!
+
+## 🎮 When I'm Not Coding
+
+When I'm not writing code, you can find me playing computer games - it's another passion of mine that keeps me engaged with technology and problem-solving.
+
+## 📫 Let's Connect
+
+Feel free to reach out if you'd like to collaborate on projects or just chat about coding and technology!
+
+---
+
