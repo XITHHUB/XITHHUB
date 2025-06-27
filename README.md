@@ -1,52 +1,101 @@
-<div a<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&width=435&lines=Junior+Developer+on+the+Rise;Gaming+Enthusiast+%26+Tech+Explorer;Eager+to+Learn+and+Grow!;Building+My+Coding+Journey!" alt="Typing SVG" />
+<div align="center">
 
-<img src="https://img.shields.io/badge/Level-Junior_Developer-brightgreen?style=for-the-badge&logo=seedling&logoColor=white">
-<img src="https://img.shields.io/badge/Status-Learning_%26_Growing-blue?style=for-the-badge&logo=graph&logoColor=white">
-<img src="https://img.shields.io/badge/Passion-Gaming_%26_Coding-purple?style=for-the-badge&logo=game&logoColor=white">
+# ✨ **Hi there! I'm Film** ✨
 
----
+## 🎯 **(You Can Call Me Fildot)** 🎯
 
-### 🌱 *Junior Developer | Gaming Passionate | Lifelong Learner*ter">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Junior%20Developer&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
 
-# 👋 **Hi there! I'm Film**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=🚀+Junior+Developer+on+the+Rise;🎮+Gaming+Enthusiast+%26+Tech+Explorer;📚+Eager+to+Learn+and+Grow!;💻+Building+My+Coding+Journey!" alt="Typing SVG" />
 
-## **(You Can Call Me Fildot)** 🎯
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&width=435&lines=Passionate+Full+Stack+Developer;Gaming+Enthusiast+%26+Tech+Explorer;Always+Ready+to+Learn+New+Things!;Let's+Build+Something+Amazing!" alt="Typing SVG" />
+<img src="https://img.shields.io/badge/Level-Junior_Developer-brightgreen?style=for-the-badge&logo=seedling&logoColor=white&labelColor=2F8D32">
+<img src="https://img.shields.io/badge/Status-Learning_%26_Growing-blue?style=for-the-badge&logo=trending-up&logoColor=white&labelColor=1976D2">
+<img src="https://img.shields.io/badge/Passion-Gaming_%26_Coding-purple?style=for-the-badge&logo=heart&logoColor=white&labelColor=7B1FA2">
+<img src="https://img.shields.io/badge/Focus-Full_Stack-orange?style=for-the-badge&logo=layers&logoColor=white&labelColor=F57C00">
 
-<img src="https://img.shields.io/badge/Status-Available_for_Work-brightgreen?style=for-the-badge&logo=checkmark&logoColor=white">
-<img src="https://img.shields.io/badge/Focus-Full_Stack_Development-blue?style=for-the-badge&logo=code&logoColor=white">
-<img src="https://img.shields.io/badge/Passion-Gaming_%26_Coding-purple?style=for-the-badge&logo=game&logoColor=white">
+<br><br>
 
----
+### 🌟 _Junior Developer | Gaming Passionate | Lifelong Learner_ 🌟
 
-### 🚀 _Coding Enthusiast | Gaming Passionate | Tech Explorer_
+<img src="https://github-profile-trophy.vercel.app/api?username=yourusername&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
 
 </div>
 
----
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
 
 ## 🌟 **About Me**
 
-<table>
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Passionate+Junior+Developer;Gaming+%26+Coding+Enthusiast;Always+Ready+to+Learn!" alt="About Me" />
+</div>
+
+<br>
+
+<table align="center">
 <tr>
-<td width="60%">
+<td width="50%" align="center">
+
+### 💫 **My Story**
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
 
 > Hello! My name is **Film**, and I'm a **junior developer** passionate about coding and playing computer games. I love exploring new technologies and I'm eager to grow my skills and learn from experienced developers!
 
-**🎯 What Drives Me:**
+</td>
+<td width="50%" align="center">
 
-- 💻 **Learning**: Building my foundation in programming and software development
-- 🎮 **Gaming**: Exploring virtual worlds and understanding game mechanics
-- 🚀 **Growth**: Constantly improving my skills and taking on new challenges
-- 🤝 **Mentorship**: Learning from experienced developers and contributing to teams
-- �🚀 **Innovation**: Always seeking new technologies to master
-- 🤝 **Collaboration**: Building amazing projects with others
+### 📊 **GitHub Stats**
+
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=ffffff" height="200" />
 
 </td>
-<td width="40%" align="center">
+</tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+<br>
+
+<div align="center">
+
+### 🎯 **What Drives Me**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/book.png"><br>
+<strong>💻 Learning</strong><br>
+<em>Building my foundation in<br>programming and development</em>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/controller.png"><br>
+<strong>🎮 Gaming</strong><br>
+<em>Exploring virtual worlds and<br>understanding game mechanics</em>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/rocket.png"><br>
+<strong>🚀 Growth</strong><br>
+<em>Constantly improving skills<br>and taking on new challenges</em>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/handshake.png"><br>
+<strong>🤝 Mentorship</strong><br>
+<em>Learning from experienced<br>developers and contributing</em>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </td>
 </tr>
@@ -57,22 +106,71 @@
 ## 💻 **My Tech Arsenal**
 
 <div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=20&pause=1000&color=F39C12&center=true&vCenter=true&width=400&lines=My+Programming+Skills;Still+Learning+%26+Growing!" alt="Tech Arsenal" />
+</div>
+
+<br>
+
+<div align="center">
 
 ### 🔥 **Programming Languages**
 
+<table>
+<tr>
+<td align="center" width="16.66%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60"/><br>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</td>
+<td align="center" width="16.66%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60"/><br>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+</td>
+<td align="center" width="16.66%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</td>
+<td align="center" width="16.66%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/><br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</td>
+<td align="center" width="16.66%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60"/><br>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+</td>
+<td align="center" width="16.66%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/><br>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</td>
+</tr>
+</table>
+
+<br>
 
 ### 🌐 **Web Technologies**
 
+<table>
+<tr>
+<td align="center" width="33.33%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" height="80"/><br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+</td>
+<td align="center" width="33.33%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" height="80"/><br>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</td>
+<td align="center" width="33.33%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="80" height="80"/><br>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+</td>
+</tr>
+</table>
 
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,php,mysql,html,react,nextjs&perline=9" />
 </div>
 
 <br>
@@ -201,28 +299,67 @@ I love diving deep into new technologies, understanding how they work, and figur
 
 ## 🤝 **Let's Connect!**
 
+## 🤝 **Let's Connect!**
+
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 📫 **Ready to Learn & Collaborate?**
 
-<img src="https://img.shields.io/badge/Open_to-Mentorship-brightgreen?style=for-the-badge&logo=handshake&logoColor=white">
-<img src="https://img.shields.io/badge/Seeking-Junior_Opportunities-blue?style=for-the-badge&logo=rocket&logoColor=white">
-<img src="https://img.shields.io/badge/Love_to-Learn_from_Seniors-purple?style=for-the-badge&logo=graduation-cap&logoColor=white">
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=18&pause=1000&color=E91E63&center=true&vCenter=true&width=500&lines=Open+to+Mentorship+%26+Learning!;Let's+Build+Amazing+Things!" alt="Connect" />
 
----
+<br>
 
-**Feel free to reach out if you'd like to:**
+<table align="center">
+<tr>
+<td align="center" width="33.33%">
+<img src="https://img.icons8.com/color/96/000000/graduation-cap.png"><br>
+<img src="https://img.shields.io/badge/Open_to-Mentorship-brightgreen?style=for-the-badge&logo=handshake&logoColor=white&labelColor=2E7D32">
+</td>
+<td align="center" width="33.33%">
+<img src="https://img.icons8.com/color/96/000000/rocket.png"><br>
+<img src="https://img.shields.io/badge/Seeking-Junior_Opportunities-blue?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1565C0">
+</td>
+<td align="center" width="33.33%">
+<img src="https://img.icons8.com/color/96/000000/heart.png"><br>
+<img src="https://img.shields.io/badge/Love_to-Learn_from_Seniors-purple?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=6A1B9A">
+</td>
+</tr>
+</table>
 
-- 🎓 Mentor a junior developer (me!)
-- 🚀 Collaborate on beginner-friendly projects
-- 💬 Chat about coding and share knowledge
-- 🤝 Help me grow as a developer
+<br>
 
----
+### 💌 **Feel free to reach out if you'd like to:**
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+🎓<br><strong>Mentor a junior<br>developer (me!)</strong>
+</td>
+<td align="center" width="25%">
+🚀<br><strong>Collaborate on<br>beginner projects</strong>
+</td>
+<td align="center" width="25%">
+💬<br><strong>Chat about coding<br>& share knowledge</strong>
+</td>
+<td align="center" width="25%">
+🤝<br><strong>Help me grow<br>as a developer</strong>
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🌟 **Growing One Line of Code at a Time!**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CAF50&width=435&lines=Learning+something+new+every+day!;Junior+dev+with+big+dreams!;Ready+to+contribute+and+grow!;The+coding+journey+begins!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=📚+Learning+something+new+every+day!;💭+Junior+dev+with+big+dreams!;🎯+Ready+to+contribute+and+grow!;🚀+The+coding+journey+begins!" alt="Typing SVG" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 
 </div>
 
@@ -230,7 +367,24 @@ I love diving deep into new technologies, understanding how they work, and figur
 
 <div align="center">
 
-**🎨 Made with ❤️ by Film (Fildot)**
+### 🎨 **Made with ❤️ by Film (Fildot)**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=16&pause=2000&color=FF69B4&center=true&vCenter=true&width=400&lines=Thank+you+for+visiting!;Let's+code+together!" alt="Thanks" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge&label=Profile+Views">
+<img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=orange&labelColor=CE4630">
+
+<br><br>
+
+_"The best time to plant a tree was 20 years ago. The second best time is now."_
+
+<br>
+
+**🌟 Let's grow together in this amazing world of code! 🌟**
+
+</div>
 
 _"The best way to predict the future is to create it."_
 
