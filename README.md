@@ -1,4 +1,12 @@
-<div align="center">
+<div a<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&width=435&lines=Junior+Developer+on+the+Rise;Gaming+Enthusiast+%26+Tech+Explorer;Eager+to+Learn+and+Grow!;Building+My+Coding+Journey!" alt="Typing SVG" />
+
+<img src="https://img.shields.io/badge/Level-Junior_Developer-brightgreen?style=for-the-badge&logo=seedling&logoColor=white">
+<img src="https://img.shields.io/badge/Status-Learning_%26_Growing-blue?style=for-the-badge&logo=graph&logoColor=white">
+<img src="https://img.shields.io/badge/Passion-Gaming_%26_Coding-purple?style=for-the-badge&logo=game&logoColor=white">
+
+---
+
+### 🌱 *Junior Developer | Gaming Passionate | Lifelong Learner*ter">
 
 # 👋 **Hi there! I'm Film**
 
@@ -24,12 +32,14 @@
 <tr>
 <td width="60%">
 
-> Hello! My name is **Film**, and I'm passionate about coding and playing computer games. I love exploring new technologies and I'm always ready to learn new things!
+> Hello! My name is **Film**, and I'm a **junior developer** passionate about coding and playing computer games. I love exploring new technologies and I'm eager to grow my skills and learn from experienced developers!
 
 **🎯 What Drives Me:**
 
-- � **Coding**: Turning ideas into reality through code
-- 🎮 **Gaming**: Exploring virtual worlds and game mechanics
+- 💻 **Learning**: Building my foundation in programming and software development
+- 🎮 **Gaming**: Exploring virtual worlds and understanding game mechanics
+- 🚀 **Growth**: Constantly improving my skills and taking on new challenges
+- 🤝 **Mentorship**: Learning from experienced developers and contributing to teams
 - �🚀 **Innovation**: Always seeking new technologies to master
 - 🤝 **Collaboration**: Building amazing projects with others
 
@@ -129,20 +139,20 @@ graph LR
 
 </div>
 
-### 🌱 **Always Learning**
+### 🌱 **Always Learning & Growing**
 
 <blockquote>
-🚀 I'm constantly expanding my knowledge and am excited to learn new programming languages and technologies. The world of coding is vast and ever-evolving, and I'm ready to embrace new challenges!
+🚀 As a junior developer, I'm constantly expanding my knowledge and am excited to learn new programming languages and technologies. I'm eager to take on challenges, work with experienced developers, and contribute to meaningful projects!
 </blockquote>
 
 <div align="center">
 
-**🔍 Currently Exploring:**
+**🔍 Currently Learning:**
 
-- 🤖 AI/ML Technologies
-- ☁️ Cloud Computing
-- 📱 Mobile Development
-- 🔐 Cybersecurity
+- 🤖 Advanced JavaScript Concepts
+- ⚛️ React Best Practices
+- �️ Backend Development with Node.js
+- � Computer Science Fundamentals
 
 </div>
 
@@ -193,26 +203,26 @@ I love diving deep into new technologies, understanding how they work, and figur
 
 <div align="center">
 
-### 📫 **Ready to Collaborate?**
+### 📫 **Ready to Learn & Collaborate?**
 
-<img src="https://img.shields.io/badge/Open_to-Collaboration-brightgreen?style=for-the-badge&logo=handshake&logoColor=white">
-<img src="https://img.shields.io/badge/Available_for-Projects-blue?style=for-the-badge&logo=rocket&logoColor=white">
-<img src="https://img.shields.io/badge/Love_to-Chat_about_Tech-purple?style=for-the-badge&logo=chat&logoColor=white">
+<img src="https://img.shields.io/badge/Open_to-Mentorship-brightgreen?style=for-the-badge&logo=handshake&logoColor=white">
+<img src="https://img.shields.io/badge/Seeking-Junior_Opportunities-blue?style=for-the-badge&logo=rocket&logoColor=white">
+<img src="https://img.shields.io/badge/Love_to-Learn_from_Seniors-purple?style=for-the-badge&logo=graduation-cap&logoColor=white">
 
 ---
 
 **Feel free to reach out if you'd like to:**
 
-- 🚀 Collaborate on exciting projects
-- 💬 Chat about coding and technology
-- 🎮 Discuss gaming and tech trends
-- 🤝 Build something amazing together!
+- 🎓 Mentor a junior developer (me!)
+- 🚀 Collaborate on beginner-friendly projects
+- 💬 Chat about coding and share knowledge
+- 🤝 Help me grow as a developer
 
 ---
 
-### 🌟 **Let's Build the Future Together!**
+### 🌟 **Growing One Line of Code at a Time!**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CAF50&width=435&lines=Always+ready+for+new+challenges!;Let's+create+something+amazing!;The+journey+continues...;Code+%2B+Gaming+%2B+Innovation!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CAF50&width=435&lines=Learning+something+new+every+day!;Junior+dev+with+big+dreams!;Ready+to+contribute+and+grow!;The+coding+journey+begins!" alt="Typing SVG" />
 
 </div>
 
